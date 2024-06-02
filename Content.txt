@@ -1,2 +1,3 @@
-something to test this feature
+
 adding web part to test pull
+now there's new line to test git gui
